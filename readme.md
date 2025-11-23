@@ -48,12 +48,13 @@
 
 ---
 
-## ⚙️ Установка зависимостей
+## Установка зависимостей
 
 ```bash
 git clone https://github.com/3xamp13/loanrisk-ml.git
 cd loanrisk-ml
 pip install -r requirements.txt
+```
 
 ## Использование
 
